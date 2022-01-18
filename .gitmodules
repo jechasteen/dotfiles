@@ -1,0 +1,3 @@
+[submodule "/home/jechasteen/.config/openbox"]
+	path = /home/jechasteen/.config/openbox
+	url = https://github.com/jechasteen/openbox_config
